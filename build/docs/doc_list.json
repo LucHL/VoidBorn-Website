@@ -1,0 +1,10 @@
+{
+  "Technique": [
+    { "name": "Class Units", "file": "docs/techniques/units.md" },
+    { "name": "Bug Tracker", "file": "docs/techniques/bugTracker.md" }
+  ],
+  "Art Bible": [
+  ],
+  "Lore": [
+  ]
+}
